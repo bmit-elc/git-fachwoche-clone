@@ -1,4 +1,4 @@
-# git-fachwoche-clone
+# Git / Github Fachwoche - Aufgabe: clone
 
 Hello World! 
 
